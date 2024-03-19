@@ -1,4 +1,4 @@
-# pka
+# pt
 Cisco Router
 (https://szit.hu/doku.php?id=oktatas:halozat:cisco:router)
 
